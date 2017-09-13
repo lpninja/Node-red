@@ -4,7 +4,7 @@ The first examples used will be with the SolarCoin blockchain. Some later work w
 
 **NR Sunfinder**
 
-The Node-red sunfinder script is designed to integrate with the SolarCoin Block Explorer at https://chainz.cryptoid.info/slr/ and extract solar PV generation data from the SolarCoin blockchain. A similar python script can also be found @scalextrix if you prefer python.
+The Node-red sunfinder script is designed to integrate with the SolarCoin Block Explorer at https://chainz.cryptoid.info/slr/ and extract solar PV generation data from the SolarCoin blockchain. A similar python script can also be found https://github.com/Scalextrix/ELCC/tree/master/sunfinder if you prefer python.
 
 This small script that plugs directly into **Node-red** allows the user to scrape the SLR blockchain by interacting with the SLR chains inbuilt 523 character TX Message Space.
 
